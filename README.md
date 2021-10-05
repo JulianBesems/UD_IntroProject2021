@@ -29,7 +29,7 @@ __Friday__: (TBA) - 15/10: _Final Presentation_
 ---
 
 # Format of slides
-The slides are presented in jupyter lab for C#. These are executable documents which aren't necessary to open for these course, and the final slides can be viewed on here after the lectures. 
+The slides are presented in jupyter lab for C#. These are executable documents which aren't necessary to open for these course, and the final slides can be viewed on here after the lectures. Just open the .ipynb file in the tutorial folder. 
 
 If you do want to run them yourselves the installation guide can be found here:
 https://github.com/dotnet/interactive/blob/main/docs/NotebookswithJupyter.md
