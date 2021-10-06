@@ -5,7 +5,7 @@ class MainClass {
 
         // change the Exercise00 to the exercise name you want to test (corresponds to the class name below)
 
-        Exercise08.run();
+        Exercise00.run();
     }
 }
 
