@@ -12,7 +12,7 @@ __Wednesday__: 13:00 - 6/10: _Introduction_
 __Thursday__: 12:00 - 7/10: _Session 1_ (Margie)
 - Check Installation, Unity UI  
 
-__Friday__: 8:30 - 8/10: _Session 2_
+__Friday__: 9:00 - 8/10: _Session 2_
 - Functions, Lists, Arrays, Read and Write to files
     - Instruct Wall-E Assignment for Monday
 
