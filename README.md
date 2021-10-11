@@ -20,7 +20,7 @@ __Monday__: 13:30 (TBC) - 11/10: _Session 3_
 - Algorithmic problem solving
     - Game of Life assignment for Wednesday
 
-__Tuesday or Wednesday (TBC)__: 18:30 - 13/10: _Session 4_
+__Tuesday__: 19:00 - 13/10: _Session 4_
 - Algorithmic problem solving
     - Final assignment based on CA for Friday
 
