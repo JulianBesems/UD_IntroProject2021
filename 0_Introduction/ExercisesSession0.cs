@@ -38,7 +38,7 @@ class Exercise01 {
 
 class Exercise02 {
 
-    // 2. Create a piece of code to print your name, email, age and gender on seperate lines.
+    // 2. Create a piece of code to print your name, email, and age on seperate lines.
     //    For each element first assign it to an oppropriate variable, and use the variable to print.
 
     // (Bonus if you can do the print statement for all variables in one line of code.
@@ -53,22 +53,22 @@ class Exercise02 {
 class Exercise03 {
 
     // 3. Print the numbers 0, 178, -21 and 12^20 on the console.
-    // Hint: Google for how to calculate exponential powers in C#. 
+    // Hint: Google for how to calculate exponential powers in C#.
 
     public static void run() {
         // Enter your code here
-        
+
     }
 }
 
 class Exercise04 {
 
     // 4. Print sin(200), cos(100), tan(pi/4)
-    // Hint: Google for how to use trigonometric function, and how to get the value of pi.  
+    // Hint: Google for how to use trigonometric function, and how to get the value of pi.
 
     public static void run() {
         // Enter your code here
-        
+
     }
 }
 
@@ -81,11 +81,11 @@ class Exercise05 {
     //          - Right click project
     //          - Select Run With -> Custom Configuration...
     //          - Check "Run In Terminal Pad" and press Run.
-    //          - Now you should be able to type in the console  
+    //          - Now you should be able to type in the console
 
     public static void run() {
         // Enter your code here
-        
+
     }
 }
 
@@ -97,7 +97,7 @@ class Exercise06 {
 
     public static void run() {
         // Enter your code here
-        
+
     }
 }
 
@@ -111,7 +111,7 @@ class Exercise07 {
 
     public static void run() {
         // Enter your code here
-        
+
     }
 }
 
